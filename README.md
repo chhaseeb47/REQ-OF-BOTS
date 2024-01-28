@@ -2,26 +2,19 @@
 This is Git Created To provide All Bots Requirements.
 
 ## QR Generator For WhatsApp Bot In Base 64
- 
+
 <div align="left">
-<a href="https://qr-code-generator-eta-green.vercel.app/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="https://qr-code-generator-eta-green.vercel.app/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="95" width="340" /></a><br>
+ 
+#### Connect This Qr Generator With Your WhatsApp Bot In 2 Steps
+##### ` 1: First Scan Then Go In Your Bot [📁lib Folder/ then In Lib Folder Open [client.js] fil And Change Session Name In Replace Session Line And Put This Name 👉
+````
+ SESSION-ID
+````
+##### ` 2:  Now Click On Commit Changes After This You Can Deploy`
 
-
-#### Connect This Qr Generator With Your WhatsApp Bot In 4 Steps
-##### ` 1: Copy This Qr Generator Link Or Copy Full [SCAN QR CODE ] Button 🔘`
-##### ` 2: Past This Link In Your WhatsApp Bot README.MD File`
-##### ` 3: Go In Your Bot [📁lib Folder/ then In Lib Folder Open [client.js] fil And Change Session Name In Replace Session Line And Put This Name 👉 SESSION-ID`
-##### ` 4: Now Click On Commit Changes Now Your Session Connect With Your Bot`
-
-<a href='https://qr-code-generator-eta-green.vercel.app/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=openv&logoColor=white'/></a>
-
-
-Support On Yt Technical Naveed
-
-Credit To Me
+Credit To NAVEED DOGAR
 Made With ❤️
-
-
 
 ---
 
