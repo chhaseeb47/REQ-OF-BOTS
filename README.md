@@ -2,12 +2,17 @@
 This is Git Created To provide All Bots Requirements.
 
 ## QR Generator For WhatsApp Bot In Base 64
+ 
+<div align="left">
+<a href="https://qr-code-generator-eta-green.vercel.app/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+
 
 #### Connect This Qr Generator With Your WhatsApp Bot In 4 Steps
 ##### ` 1: Copy This Qr Generator Link Or Copy Full [SCAN QR CODE ] Button 🔘`
 ##### ` 2: Past This Link In Your WhatsApp Bot README.MD File`
 ##### ` 3: Go In Your Bot [📁lib Folder/ then In Lib Folder Open [client.js] fil And Change Session Name In Replace Session Line And Put This Name 👉 SESSION-ID`
 ##### ` 4: Now Click On Commit Changes Now Your Session Connect With Your Bot`
+
 <a href='https://qr-code-generator-eta-green.vercel.app/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=openv&logoColor=white'/></a>
 
 
@@ -18,39 +23,17 @@ Made With ❤️
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-___ 
-
-
 ---
 
 
 # PostgreSQL Uri / Url
-
+```
 postgres://naveed_user:jR4C57sJsFIBNO18OxxD6CtqzOvhTXYk@dpg-dn5D1nug2bec738cqi4g-a.frankfurt-postgres.render.com/naveed
+```
 
+```
 postgres://udith_user:hR4C57sCgHIBNO18OxxD6CtqzOvhTXYk@dpg-ck5D1nug2bec738cqi4g-a.frankfurt-postgres.render.com/udith
-
-
-
-
-
-
-
-
-
-
----
+```
 
 
 ---
@@ -60,15 +43,9 @@ postgres://udith_user:hR4C57sCgHIBNO18OxxD6CtqzOvhTXYk@dpg-ck5D1nug2bec738cqi4g-
 
 
 # MONGODB URI &  BOTCAHX_API
- 
- Copy Easy Now
- 
- # `MONGODB URI`
-  Railway Uri
- mongodb://mongo:Leua9VD8ienGyhpdruHQ@containers.railway.app:5534
- 
-Mongodb Uri
-
+ ```
+mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority
+```
 
   ---
  # BOTCAHX_API   
