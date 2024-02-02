@@ -21,6 +21,10 @@ Made With ❤️
 
 # PostgreSQL Uri / Url
 ```
+postgres://koyeb-adm:kR0OM6mVATGX@ep-young-hall-a2rojz4x.eu-central-1.pg.koyeb.app/koyebdb
+```
+
+```
 postgres://naveed_user:jR4C57sJsFIBNO18OxxD6CtqzOvhTXYk@dpg-dn5D1nug2bec738cqi4g-a.frankfurt-postgres.render.com/naveed
 ```
 
@@ -38,6 +42,10 @@ postgres://udith_user:hR4C57sCgHIBNO18OxxD6CtqzOvhTXYk@dpg-ck5D1nug2bec738cqi4g-
 # MONGODB URI &  BOTCAHX_API
  ```
 mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority
+```
+
+```
+mongodb+srv://King-MdIsbot:King-MdIsbot@cluster0.hikjrg2.mongodb.net/?retryWrites=true&w=majority
 ```
 
   ---
