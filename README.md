@@ -1,22 +1,21 @@
 # REQ-OF-BOTS
-This is Git Created To provide All Bots Requirements.
 
-## QR Generator For WhatsApp Bot In Base 64
 
-<div align="left">
-<a href="https://qr-code-generator-eta-green.vercel.app/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="95" width="340" /></a><br>
- 
-#### Connect This Qr Generator With Your WhatsApp Bot In 2 Steps
-##### ` 1: First Scan Then Go In Your Bot [📁lib Folder/ then In Lib Folder Open [client.js] fil And Change Session Name In Replace Session Line And Put This Name 👉
-````
- SESSION-ID
-````
-##### ` 2:  Now Click On Commit Changes After This You Can Deploy`
+# Remove BG Key ;
+```
+yepeTQaFk7r9ymusihgXYvdN
+```
 
-Credit To NAVEED DOGAR
-Made With ❤️
+# Eleven API Key: 
+```
+0cdb1aed858329b9793413672094ce0d
+```
 
----
+
+# Open API:
+```
+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
+```
 
 
 # PostgreSQL Uri / Url
@@ -39,7 +38,7 @@ postgres://udith_user:hR4C57sCgHIBNO18OxxD6CtqzOvhTXYk@dpg-ck5D1nug2bec738cqi4g-
 
 
 
-# MONGODB URI &  BOTCAHX_API
+# MONGODB URI 
  ```
 mongodb+srv://romi:romi@cluster0.pwuoewh.mongodb.net/?retryWrites=true&w=majority
  ```
